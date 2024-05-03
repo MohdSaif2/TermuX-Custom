@@ -52,7 +52,7 @@ To get started, simply follow the provided commands to update and upgrade your T
     pkg install git -y
     ```
     
-[-] Clone the TermuX-Custom6 repository in your Termux:
+[-] Clone the TermuX-Custom repository in your Termux:
     ```
     git clone https://github.com/MohdSaif2/TermuX-Custom.git
     ```
