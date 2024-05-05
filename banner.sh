@@ -360,7 +360,7 @@ echo -e "\033[32m\033[1m
      \033[1m\033[36mTool Name       \033[32m: \033[33mTermuX-Custom
      \033[1m\033[36mAuthor Name     \033[32m: \033[33mMohammad SaiF
      \033[1m\033[36mCountry         \033[32m: \033[33mIndia
-     \033[1m\033[36mState           \033[32m: \033[33mBareilly
+     \033[1m\033[36mDistrict           \033[32m: \033[33mBareilly
   \033[31m________________________________________________________
 "
 
